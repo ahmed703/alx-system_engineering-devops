@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-This repo contains bash scripts
+This repo contains bash scripts --for-now
